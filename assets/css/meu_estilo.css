@@ -80,3 +80,21 @@ p{
     border-radius: 10px;
     padding: 2px 5px;
 }
+
+#redes_sociais {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.redes_sociais img {
+    width: 100%;
+}
+
+.redes_sociais {
+    height: 300px;
+    width: 300px;
+    border: #9920a3 solid 5px;
+    margin: 10px;
+}
