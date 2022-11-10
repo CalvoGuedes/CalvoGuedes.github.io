@@ -98,3 +98,9 @@ p{
     border: #9920a3 solid 5px;
     margin: 10px;
 }
+
+.rodape {
+    background-color:mediumblue;
+    height: 100px;
+    color:azure;
+}
